@@ -1,0 +1,13 @@
+.projects {
+	list-style-type: none;
+	padding: 0;
+}
+
+.projects a {
+	text-decoration: none;
+	color: #1DDB9A;
+}
+
+.projects li a:first-of-type {
+	color: #7CE316;
+}
